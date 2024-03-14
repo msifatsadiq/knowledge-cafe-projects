@@ -3,7 +3,7 @@ import { useState } from "react";
 import Blog from "../Blog/Blog";
 
 
-const Blogs = ({ handelAddToBookmark }) => {
+const Blogs = ({ handelAddToBookmark, handelMarkAsRead }) => {
     const [blogs, setBlogs] = useState([])
 
     useEffect(() => {
@@ -22,10 +22,12 @@ const Blogs = ({ handelAddToBookmark }) => {
                     key={blog.id}
                     blog={blog}
                     handelAddToBookmark={handelAddToBookmark}
+                    handelMarkAsRead={handelMarkAsRead}
                 ></Blog>)
             }
         </div >
     );
 };
+
 
 export default Blogs;
