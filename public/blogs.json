@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/n7Z9SnX/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "Introduction to Knowledge Cafe",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/p2cJ5SP/profile.png",
+        "posted_date": "2024-03-14",
+        "reading_time": 10,
+        "hashtag": [
+            "knowledge",
+            "cafe",
+            "learning"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/d5RmrQQ/cheerful-attractive-young-woman-enjoying-distant-work-sitting-desk-using-portable-computer-drinking.jpg",
+        "title": "Effective Communication Techniques",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/p2cJ5SP/profile.png",
+        "posted_date": "2024-03-12",
+        "reading_time": 15,
+        "hashtag": [
+            "communication",
+            "skills",
+            "learning"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/84Q4k8B/blogging-gone-viral-camera-concept.jpg",
+        "title": "Problem Solving Strategies",
+        "author": "David Johnson",
+        "author_img": "https://i.ibb.co/p2cJ5SP/profile.png",
+        "posted_date": "2024-03-10",
+        "reading_time": 12,
+        "hashtag": [
+            "problem-solving",
+            "skills",
+            "knowledge"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/4P3PQcK/2c264343-0211-47d6-809d-412ba004e9bd.jpg",
+        "title": "Leadership Essentials",
+        "author": "Emily Brown",
+        "author_img": "https://i.ibb.co/p2cJ5SP/profile.png",
+        "posted_date": "2024-03-08",
+        "reading_time": 20,
+        "hashtag": [
+            "leadership",
+            "skills",
+            "management"
+        ]
+    }
+]
